@@ -1,4 +1,6 @@
+/.vscode
+.DS_Store
+
 /node_modules/
 /public/build/
-
-.DS_Store
+/src/config/*[.json|.js]
